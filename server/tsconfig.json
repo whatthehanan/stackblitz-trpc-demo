@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "es2016",
+    "module": "commonjs" /* Specify what module code is generated. */,
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */
+  }
+}
